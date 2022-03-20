@@ -37,6 +37,7 @@ img {
 
 img:hover {
   background-color: rgb(128, 222, 234);
+  cursor: pointer;
 }
 
 .column {
